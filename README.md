@@ -1,0 +1,2 @@
+# kursLodz
+kurs c sharp
